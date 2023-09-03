@@ -2,8 +2,9 @@ package com.leetCode.practice;
 
 import java.util.HashMap;
 import java.util.Map;
-
-class twoSum {
+import java.util.stream.IntStream;
+//  https://leetcode.com/problems/two-sum/
+class TwoSum {
     public static int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> numsMap = new HashMap();
         for(int i=0;i<=nums.length-1;i++){
