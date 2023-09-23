@@ -2,8 +2,7 @@ package com.leetCode.practice;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.stream.Collectors;
-import java.util.stream.IntStream;
+
 //  https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 public class FindAllMissingNumber {
     public List<Integer> findDisappearedNumbers(int[] nums) {

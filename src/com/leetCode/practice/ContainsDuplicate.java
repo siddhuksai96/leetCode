@@ -19,8 +19,9 @@ public class ContainsDuplicate {
     }
 
     public static void main(String[] args) {
-        ContainsDuplicate instance = new ContainsDuplicate();
-        int[] nums = {1};
-        assertTrue(instance.containsDuplicate(nums));
+//        ContainsDuplicate instance = new ContainsDuplicate();
+//        int[] nums = {1};
+//        assertTrue(instance.containsDuplicate(nums));
+        System.out.println('d' - 'a');
     }
 }
