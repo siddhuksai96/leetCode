@@ -1,4 +1,4 @@
-package com.leetCode.practice.models;
+package com.leetcode.practice.models;
 
 import java.util.List;
 

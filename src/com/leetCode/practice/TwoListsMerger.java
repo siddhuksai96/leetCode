@@ -1,6 +1,6 @@
-package com.leetCode.practice;
+package com.leetcode.practice;
 
-import com.leetCode.practice.models.ListNode;
+import com.leetcode.practice.models.ListNode;
 
 public class TwoListsMerger {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {

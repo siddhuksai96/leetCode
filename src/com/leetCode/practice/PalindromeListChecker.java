@@ -1,6 +1,6 @@
-package com.leetCode.practice;
+package com.leetcode.practice;
 
-import com.leetCode.practice.models.ListNode;
+import com.leetcode.practice.models.ListNode;
 
 //  https://leetcode.com/problems/palindrome-linked-list/
 public class PalindromeListChecker {

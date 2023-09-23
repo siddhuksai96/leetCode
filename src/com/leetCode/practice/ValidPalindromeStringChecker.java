@@ -1,4 +1,4 @@
-package com.leetCode.practice;
+package com.leetcode.practice;
 
 public class ValidPalindromeStringChecker {
     public boolean isPalindrome(String s) {

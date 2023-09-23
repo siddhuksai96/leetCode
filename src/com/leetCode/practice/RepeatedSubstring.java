@@ -1,4 +1,4 @@
-package com.leetCode.practice;
+package com.leetcode.practice;
 
 import static org.junit.Assert.assertTrue;
 //  https://leetcode.com/problems/repeated-substring-pattern/

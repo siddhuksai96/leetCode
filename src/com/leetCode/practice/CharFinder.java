@@ -1,4 +1,4 @@
-package com.leetCode.practice;
+package com.leetcode.practice;
 
 public class CharFinder {
     public char nextGreatestLetter(char[] letters, char target) {

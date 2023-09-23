@@ -1,4 +1,4 @@
-//package com.leetCode.practice;
+//package com.leetcode.practice;
 //
 //import java.util.Arrays;
 //import java.util.List;

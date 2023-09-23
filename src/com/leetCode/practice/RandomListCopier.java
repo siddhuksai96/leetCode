@@ -1,6 +1,6 @@
-package com.leetCode.practice;
+package com.leetcode.practice;
 
-import com.leetCode.practice.models.Node;
+import com.leetcode.practice.models.Node;
 
 import java.util.HashMap;
 import java.util.Map;

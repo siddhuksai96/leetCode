@@ -1,4 +1,4 @@
-package com.leetCode.practice;
+package com.leetcode.practice;
 
 //  https://leetcode.com/problems/furthest-point-from-origin/
 public class MaxDistanceFromOrigin {

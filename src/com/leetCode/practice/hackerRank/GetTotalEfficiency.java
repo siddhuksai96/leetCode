@@ -1,4 +1,4 @@
-package com.leetCode.practice.hackerRank;
+package com.leetcode.practice.hackerRank;
 
 import java.util.ArrayList;
 import java.util.Arrays;

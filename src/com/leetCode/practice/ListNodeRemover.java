@@ -1,6 +1,6 @@
-package com.leetCode.practice;
+package com.leetcode.practice;
 
-import com.leetCode.practice.models.ListNode;
+import com.leetcode.practice.models.ListNode;
 
 public class ListNodeRemover {
     public ListNode removeNthFromEnd(ListNode head, int n) {

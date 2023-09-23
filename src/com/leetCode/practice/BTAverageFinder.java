@@ -1,6 +1,6 @@
-package com.leetCode.practice;
+package com.leetcode.practice;
 
-import com.leetCode.practice.models.TreeNode;
+import com.leetcode.practice.models.TreeNode;
 
 import java.util.ArrayList;
 import java.util.List;

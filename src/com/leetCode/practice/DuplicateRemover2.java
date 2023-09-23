@@ -1,4 +1,4 @@
-package com.leetCode.practice;
+package com.leetcode.practice;
 
 public class DuplicateRemover2 {
     public int removeDuplicates(int[] nums) {

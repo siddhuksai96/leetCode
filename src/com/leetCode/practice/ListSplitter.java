@@ -1,6 +1,6 @@
-package com.leetCode.practice;
+package com.leetcode.practice;
 
-import com.leetCode.practice.models.ListNode;
+import com.leetcode.practice.models.ListNode;
 import java.lang.Math;
 public class ListSplitter {
     int listLength = 0;

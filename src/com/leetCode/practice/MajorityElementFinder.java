@@ -1,4 +1,4 @@
-package com.leetCode.practice;
+package com.leetcode.practice;
 
 //  https://leetcode.com/problems/majority-element
 public class MajorityElementFinder {

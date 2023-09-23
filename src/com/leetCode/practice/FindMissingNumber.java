@@ -1,4 +1,4 @@
-package com.leetCode.practice;
+package com.leetcode.practice;
 
 import java.util.*;
 import java.util.stream.Collectors;
