@@ -1,4 +1,4 @@
-package com.leetcode.practice;
+package com.leetcode.practice.linkedlist;
 
 import com.leetcode.practice.models.ListNode;
 
